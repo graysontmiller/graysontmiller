@@ -1,16 +1,13 @@
-### Hi there 👋
+# Grayson Miller
 
-<!--
-**graysontmiller/graysontmiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I use this repo for managing and developing my personal website, [graysontmiller.com](https://graysontmiller.github.io/graysontmiller/)
 
-Here are some ideas to get you started:
+## About Me
+My name is Grayson Miller, I am a Charlotte based web developer and designer. Full Stack Web Developer with a background in Advertising and Graphic Design and a passion for creating engaging experiences. I'm known for attention to detail and passion for great user experience both within the code base and on the web page.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To learn more about me, head over to [graysontmiller.com](https://graysontmiller.github.io/graysontmiller/) or my [LinkedIn](www.linkedin.com/in/graysontmiller).
+
+Contact me via my [LinkedIn](www.linkedin.com/in/graysontmiller) or the contact page on my [website.](https://graysontmiller.github.io/graysontmiller/contact)
+> I am open to new opportunities, freelance work, or just making connections
+
+
